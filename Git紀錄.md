@@ -53,18 +53,6 @@ git reset --hard commit_id (用log的commit_id也可以直接指定回退)
 7.git branch -D a //強制刪除分支(將a分支強制刪除)
 8.git checkout a //切換分支(切換至a分支)
 ```
-## 分支那些事
-```
-1.到目錄
-2.git branch //查看分支(*代表目前分之)
-3.git branch a//新增分支a(a是分支名)
-4.git checkout -b a //快速版 (新增+切換分支)
-5.git branch -m a b //幫分支改名(將a改成b)
-6.git branch -d a //刪除分支(將a分支刪除)
-7.git branch -D a //強制刪除分支(將a分支強制刪除)
-8.git checkout a //切換分支(切換至a分支)
-```
-
 ## 合併
 ```
 1.到目錄
