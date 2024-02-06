@@ -20,6 +20,8 @@ git clone url
 1. 輸入指令
 ```
 composer update
+php artisan storage:link
+chmod -R 777 storage
 ```
 
 
